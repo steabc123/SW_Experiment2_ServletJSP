@@ -27,10 +27,11 @@ src/main/webapp/
 4. 点击计算按钮查看结果
 
 技术栈：
-- Java 8
+- Java 22
 - Jakarta EE Servlet API 5.0
 - JSP
-- Maven 3.x
+- Maven 3.8.4
+- Tomcat 10.1.19
 
 配置信息：
 pom.xml中已配置必要的Servlet依赖，项目打包方式为WAR包。
